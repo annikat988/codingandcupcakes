@@ -1,0 +1,24 @@
+body {
+    background-color: #ff1493;
+}
+.header {
+overflow: auto;
+display: block;
+clear: both;
+background: #00ced1;
+}
+html, body {
+background: #ff1493;
+font-family: 'Lato', sans-serif;
+color: #6C6B6B;
+margin: 0px;
+padding: 0px;
+overflow-x: hidden;
+}
+.cupcake {
+    color:#f8f8ff;
+}
+.shopheader {
+    color:#f8f8ff;
+}
+
